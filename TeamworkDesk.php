@@ -1,5 +1,4 @@
 <?php
-namespace App\Libraries;
 use GuzzleHttp\Client as Guzzle;
 use GuzzleHttp\Exception\ClientException;
 
